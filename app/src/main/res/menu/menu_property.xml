@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/valueanimator_anim"
+        android:title="ValueAnimator的使用" />
+    <item
+        android:id="@+id/objectanimator_anim"
+        android:title="ObjectAnimator的使用" />
+    <item
+        android:id="@+id/animation_set"
+        android:title="AnimatorSet动画简单使用" />
+    <item
+        android:id="@+id/valueanimator_ofobject_anim"
+        android:title="ValueAnimator.ofObject方法配合估值器实现动画"/>
+    <item
+        android:id="@+id/custom_interceptor"
+        android:title="自定义差值器"/>
+    <item
+        android:id="@+id/keyframe_anim"
+        android:title="使用keyframe设置关键帧动画"/>
+    <item
+        android:id="@+id/fastanim"
+        android:title="使用view.x y rotate alpha scale的api实现动画"/>
+</menu>
